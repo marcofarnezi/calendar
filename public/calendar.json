@@ -1,0 +1,575 @@
+[
+  {
+    "title": "Christmas",
+    "start": "2021-12-25",
+    "end": "2021-12-26",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-company-day-with-day-off",
+      "-all_day",
+      "-c6"
+    ],
+    "type": "company_day_with_day_off",
+    "details_url": "/863382/calendar/events/company_day/116359",
+    "status": null,
+    "data": {
+      "company_day_id": 116359
+    },
+    "rule": null,
+    "user_name": null,
+    "current": null,
+    "personal": false
+  },
+  {
+    "title": "Boxing day",
+    "start": "2021-12-26",
+    "end": "2021-12-27",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-company-day-with-day-off",
+      "-all_day",
+      "-c6"
+    ],
+    "type": "company_day_with_day_off",
+    "details_url": "/863382/calendar/events/company_day/116360",
+    "status": null,
+    "data": {
+      "company_day_id": 116360
+    },
+    "rule": null,
+    "user_name": null,
+    "current": null,
+    "personal": false
+  },
+  {
+    "title": "New year",
+    "start": "2022-01-01",
+    "end": "2022-01-02",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-company-day-with-day-off",
+      "-all_day",
+      "-c6"
+    ],
+    "type": "company_day_with_day_off",
+    "details_url": "/863382/calendar/events/company_day/116361",
+    "status": null,
+    "data": {
+      "company_day_id": 116361
+    },
+    "rule": null,
+    "user_name": null,
+    "current": null,
+    "personal": false
+  },
+  {
+    "title": "Rutger van  Baren",
+    "start": "2021-12-03",
+    "end": "2021-12-04",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-non-work-day",
+      "-all_day",
+      "-repeating",
+      "-c11"
+    ],
+    "type": "non_work_day",
+    "details_url": "/863382/calendar/events/non_work_day/1290404",
+    "status": null,
+    "data": {
+      "request_type": null,
+      "user_id": 1290404
+    },
+    "rule": {
+      "freq": "weekly",
+      "interval": 1
+    },
+    "user_name": "Rutger van  Baren",
+    "current": null,
+    "personal": false
+  },
+  {
+    "title": "Anthony Agustin",
+    "start": "2021-12-20",
+    "end": "2021-12-25",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/1995166",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 1995166
+    },
+    "rule": null,
+    "user_name": "Anthony Agustin",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Anthony Agustin",
+    "start": "2021-12-27",
+    "end": "2022-01-01",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/1995166",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 1995166
+    },
+    "rule": null,
+    "user_name": "Anthony Agustin",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Vasileios  Tsitlakidis",
+    "start": "2021-11-30",
+    "end": "2021-12-04",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2045793",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2045793
+    },
+    "rule": null,
+    "user_name": "Vasileios  Tsitlakidis",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Vasileios  Tsitlakidis",
+    "start": "2021-12-06",
+    "end": "2021-12-08",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2045793",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2045793
+    },
+    "rule": null,
+    "user_name": "Vasileios  Tsitlakidis",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Rutger van  Baren",
+    "start": "2021-12-13",
+    "end": "2021-12-17",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2050483",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2050483
+    },
+    "rule": null,
+    "user_name": "Rutger van  Baren",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Rutger van  Baren",
+    "start": "2021-12-20",
+    "end": "2021-12-24",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2050483",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2050483
+    },
+    "rule": null,
+    "user_name": "Rutger van  Baren",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Marco Flávio  Alves Farnezi",
+    "start": "2021-12-24",
+    "end": "2021-12-25",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2070709",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2070709
+    },
+    "rule": null,
+    "user_name": "Marco Flávio  Alves Farnezi",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Anthony Agustin",
+    "start": "2021-11-29",
+    "end": "2021-12-02",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2080724",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2080724
+    },
+    "rule": null,
+    "user_name": "Anthony Agustin",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": " Sergio  Valín Cabrera",
+    "start": "2021-12-20",
+    "end": "2021-12-25",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2082606",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2082606
+    },
+    "rule": null,
+    "user_name": " Sergio  Valín Cabrera",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": " Sergio  Valín Cabrera",
+    "start": "2021-12-27",
+    "end": "2022-01-01",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2082606",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2082606
+    },
+    "rule": null,
+    "user_name": " Sergio  Valín Cabrera",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Rutger van  Baren",
+    "start": "2021-12-06",
+    "end": "2021-12-10",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2087506",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2087506
+    },
+    "rule": null,
+    "user_name": "Rutger van  Baren",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Rutger van  Baren",
+    "start": "2021-12-27",
+    "end": "2021-12-31",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2087506",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2087506
+    },
+    "rule": null,
+    "user_name": "Rutger van  Baren",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Rutger van  Baren",
+    "start": "2021-11-29",
+    "end": "2021-11-30",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2092275",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2092275
+    },
+    "rule": null,
+    "user_name": "Rutger van  Baren",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": " Sergio  Valín Cabrera",
+    "start": "2021-12-03",
+    "end": "2021-12-04",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2106117",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2106117
+    },
+    "rule": null,
+    "user_name": " Sergio  Valín Cabrera",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": " Sergio  Valín Cabrera",
+    "start": "2021-12-10",
+    "end": "2021-12-11",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2106117",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2106117
+    },
+    "rule": null,
+    "user_name": " Sergio  Valín Cabrera",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": " Sergio  Valín Cabrera",
+    "start": "2021-12-17",
+    "end": "2021-12-18",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2106117",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2106117
+    },
+    "rule": null,
+    "user_name": " Sergio  Valín Cabrera",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Marco Flávio  Alves Farnezi",
+    "start": "2021-12-23",
+    "end": "2021-12-24",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2107873",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2107873
+    },
+    "rule": null,
+    "user_name": "Marco Flávio  Alves Farnezi",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Marco Flávio  Alves Farnezi",
+    "start": "2021-12-27",
+    "end": "2021-12-28",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2107873",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2107873
+    },
+    "rule": null,
+    "user_name": "Marco Flávio  Alves Farnezi",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Marco Flávio  Alves Farnezi",
+    "start": "2021-12-31",
+    "end": "2022-01-01",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2107873",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2107873
+    },
+    "rule": null,
+    "user_name": "Marco Flávio  Alves Farnezi",
+    "current": false,
+    "personal": false
+  },
+  {
+    "title": "Eddy Örzsik",
+    "start": "2021-12-20",
+    "end": "2021-12-27",
+    "allDay": true,
+    "className": [
+      "calendar-event",
+      "-request",
+      "-ok",
+      "-all_day",
+      "-c2"
+    ],
+    "type": "request",
+    "details_url": "/863382/calendar/events/request/2119097",
+    "status": "ok",
+    "data": {
+      "request_type": null,
+      "request_id": 2119097
+    },
+    "rule": null,
+    "user_name": "Eddy Örzsik",
+    "current": false,
+    "personal": false
+  }
+]

@@ -23,7 +23,12 @@ app.post('/', (req, res) => {
     let month = req.body.month
     if (month !== undefined && month.length > 0) {
         const Nightmare = require('nightmare')
-        const nightmare = Nightmare({show: false})
+        const nightmare = Nightmare({
+            show: false,
+            webPreferences: {
+                images: false
+            }
+        })
         nightmare
             .goto('https://app.rework.nl/sign_in')
             .type('#account_email', req.body.user)

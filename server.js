@@ -23,9 +23,9 @@ app.post('/', (req, res) => {
     let month = req.body.month
     if (month !== undefined && month.length > 0) {
         const Nightmare = require('nightmare')
-        const nightmare = Nightmare({show: false})
+        const nightmare = Nightmare({show: true})
         nightmare
-            .goto('https://app.rework.nl/sign_in')
+            .goto('https://app.rework.nl/sign_iheroku stack:set cedar-14 --app n')
             .type('#account_email', req.body.user)
             .type('#account_password', req.body.password)
             .click('input.control__button')

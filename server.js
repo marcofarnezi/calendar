@@ -25,7 +25,7 @@ app.post('/', (req, res) => {
         const Nightmare = require('nightmare')
         const nightmare = Nightmare({show: false})
         nightmare
-            .goto('https://app.rework.nl/sign_iheroku stack:set cedar-14 --app n')
+            .goto('https://app.rework.nl/sign_in')
             .type('#account_email', req.body.user)
             .type('#account_password', req.body.password)
             .click('input.control__button')

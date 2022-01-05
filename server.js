@@ -2,7 +2,7 @@ const express = require('express')
 const Nightmare = require("nightmare");
 const moment = require('moment')
 const app = express()
-const server = require('https').Server(app)
+const server = require('http').Server(app)
 var bodyParser = require('body-parser')
 app.use(express.static('public'))
 app.use(bodyParser.urlencoded({ extended: false }))
